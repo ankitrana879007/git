@@ -1,5 +1,0 @@
-Date, Amount, Category, Description
-2025-09-21,25,recharge,phone
-2025-09-21,900,recharge,wife
-2025-09-21,10000,car repair,car
-2025-09-26,2000,fraud,online
